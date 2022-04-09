@@ -104,3 +104,19 @@ rl.on('close',function(){
   process.exit(0);
 })
 */
+// AULA DE MÓDULOS
+
+const danielModule = require ('./modules.js');
+
+danielModule.helloDanielModule();
+
+
+console.log(danielModule.helloDanielModule);
+console.log(danielModule.obj.nome);
+console.log(danielModule.qualquernome);
+
+
+
+
+
+    
