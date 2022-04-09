@@ -53,8 +53,8 @@ server.listen(port, hostname, () => {
   console.log('Ta rodando o server')
 })
 */
-
-/* const fs = require ('fs');
+/*
+ const fs = require ('fs');
 const read = require ('readline');
 
 fs.readFile('danki.txt', function(err,data){
@@ -103,4 +103,6 @@ rl.on('close',function(){
   console.log('Adeus');
   process.exit(0);
 })
+
+INSTALAÇÃO DE NODEMON - NPM INSTALL  -G NODEMON 
 */
